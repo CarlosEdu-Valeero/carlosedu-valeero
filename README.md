@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou Carlos Eduardo
 
-<!--
-**CarlosEdu-Valeero/carlosedu-valeero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIFAEL)  
+💻 Iniciante em Python  
+📚 Em constante aprendizado  
+🌎 Inglês intermediário  
 
-Here are some ideas to get you started:
+## 🚀 Objetivo
+Iniciar carreira na área de desenvolvimento de software, com foco em Python, buscando oportunidades como desenvolvedor júnior ou trainee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python (iniciante)
+- Lógica de programação
+- Git e GitHub (básico)
+
+## 📌 Projetos
+- Em construção 🚧
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/carlos-eduardo-matozo-14814b3a3/
