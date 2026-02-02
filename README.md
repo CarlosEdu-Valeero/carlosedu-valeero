@@ -14,7 +14,7 @@ Iniciar carreira na área de desenvolvimento de software, com foco em Python, bu
 - Git e GitHub (básico)
 
 ## 📌 Projetos
-- Em construção 🚧
+- Controle de Gastos
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/carlos-eduardo-matozo-14814b3a3/
